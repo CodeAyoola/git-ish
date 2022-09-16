@@ -15,6 +15,6 @@ var newsFeed = [
 
     {
         username: "Bobby"
-        timeline: "I have been busy all day" 
+        timeline: "I have been busy all day"; 
     }
 ]
